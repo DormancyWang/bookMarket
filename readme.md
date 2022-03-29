@@ -10,4 +10,4 @@
 8. session的本质
 9. fliter和listener
 10. ajax异步请求
-11. i8n全球化
+11. i18n全球化
